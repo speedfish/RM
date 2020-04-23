@@ -7,11 +7,37 @@
   text-align:center;
   line-height:normal;
 }
+._文本段落 {
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#949494;
+  text-align:left;
+  line-height:22px;
+}
+._五级标题 {
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#5E5E5E;
+  text-align:left;
+}
 .box_1 {
 }
 .box_3 {
 }
+.ellipse {
+}
 ._图片 {
+}
+._形状 {
+}
+.shape {
+}
+.image {
+  color:#000000;
 }
 ._一级标题 {
   font-family:'microsoft yahei';
@@ -41,7 +67,7 @@
   font-size:14px;
   text-align:left;
 }
-._五级标题 {
+._五级标题1 {
   font-family:'microsoft yahei';
   font-weight:bold;
   font-style:normal;
@@ -58,20 +84,37 @@
   font-size:14px;
   text-align:left;
 }
-._文本段落 {
+._文本段落1 {
   text-align:left;
 }
 ._流程形状 {
 }
 .line {
 }
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.list_box {
+  color:#000000;
+  text-align:left;
+}
 .tree_node {
   text-align:left;
 }
+.table_cell {
+}
 ._连接线 {
-  font-family:'微软雅黑';
+  font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
   font-size:10px;
   color:#999999;
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
 }
